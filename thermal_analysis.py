@@ -5,7 +5,6 @@ import cv2
 import matplotlib.pyplot as plt
 from scipy import ndimage
 from collections import defaultdict
-from depth_anything_v2.dpt import DepthAnythingV2
 import torch
 import matplotlib
 import exifread
